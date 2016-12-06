@@ -15,7 +15,7 @@ int main(){
 	char *buffer;
 	char *token;
 	
-	// read text file 
+    // read text file 
     FILE *file;
     file = fopen("input.txt", "r");
 	
@@ -58,7 +58,8 @@ int main(){
 	for(i = 0;i < rowCount;i++) {
 		 array[i] = malloc(colnCount * sizeof(int));
 	}
-	// return the beggining of the file
+	
+	// return the beginning of the file
 	fseek(file, 0, SEEK_SET); 
 
 	for(i = 0;i < rowCount;i++) {
