@@ -1,4 +1,4 @@
-# AnalysisOfAlgorithms
+# MPI project --> AnalysisOfAlgorithms
 > In this repository, there is a project about MPI(Message Passing Interface).<br>
  I have a project description and all needed files in there.
 
