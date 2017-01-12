@@ -1,10 +1,7 @@
-# maze-findPath
-> There is a main.cpp that find a shortest path from start:A to end:F node.<br>
-I use A-star searc algorithm
-I also beneficial from https://github.com/lakshjain/Shortest-Path-Finder. I modified this code to my problem.
-Compilation (write in terminal)
+# read file
+> Read data from a text file dynamically in C.
 <ul>
-  <li>g++ main.cpp</li>
+  <li>g++ read.c</li>
   <li>./a.out</li>
 </ul>
 
