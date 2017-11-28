@@ -1,0 +1,579 @@
+italia
+italy
+rome
+milan
+naples
+turin
+palermo
+genoa
+bologna
+florence
+bari
+catania
+venice
+verona
+messina
+padua
+trieste
+taranto
+brescia
+parma
+prato
+modena
+reggio calabria
+reggio emilia
+perugia
+ravenna
+livorno
+cagliari
+foggia
+rimini
+salerno
+ferrara
+sassari
+latina
+giugliano in campania
+monza
+syracuse
+pescara
+bergamo
+forlì
+trento
+vicenza
+terni
+bolzano
+novara
+piacenza
+ancona
+andria
+arezzo
+udine
+cesena
+lecce
+pesaro
+barletta
+alessandria
+la spezia
+pisa
+catanzaro
+pistoia
+guidonia montecelio
+lucca
+brindisi
+torre del greco
+como
+treviso
+busto arsizio
+marsala
+grosseto
+sesto san giovanni
+pozzuoli
+varese
+fiumicino
+casoria
+asti
+caserta
+cinisello balsamo
+gela
+aprilia
+ragusa
+pavia
+cremona
+carpi
+quartu sant'elena
+lamezia terme
+altamura
+imola
+l’aquila
+massa
+trapani
+cosenza
+viterbo
+potenza
+castellammare di stabia
+afragola
+vittoria
+vigevano
+crotone
+pomezia
+caltanissetta
+carrara
+viareggio
+savona
+fano
+matera
+legnano
+olbia
+benevento
+marano di napoli
+acerra
+molfetta
+agrigento
+faenza
+cerignola
+moncalieri
+foligno
+manfredonia
+tivoli
+cuneo
+trani
+bisceglie
+bagheria
+bitonto
+portici
+sanremo
+teramo
+avellino
+modica
+anzio
+montesilvano
+siena
+cava de' tirreni
+san severo
+velletri
+ercolano
+gallarate
+aversa
+civitavecchia
+acireale
+rovigo
+mazara del vallo
+chieti
+pordenone
+battipaglia
+scafati
+rho
+scandicci
+rome, italy
+milan, italy
+naples, italy
+turin, italy
+palermo, italy
+genoa, italy
+bologna, italy
+florence, italy
+bari, italy
+catania, italy
+venice, italy
+verona, italy
+messina, italy
+padua, italy
+trieste, italy
+taranto, italy
+brescia, italy
+parma, italy
+prato, italy
+modena, italy
+reggio calabria, italy
+reggio emilia, italy
+perugia, italy
+ravenna, italy
+livorno, italy
+cagliari, italy
+foggia, italy
+rimini, italy
+salerno, italy
+ferrara, italy
+sassari, italy
+latina, italy
+giugliano in campania, italy
+monza, italy
+syracuse, italy
+pescara, italy
+bergamo, italy
+forlì, italy
+trento, italy
+vicenza, italy
+terni, italy
+bolzano, italy
+novara, italy
+piacenza, italy
+ancona, italy
+andria, italy
+arezzo, italy
+udine, italy
+cesena, italy
+lecce, italy
+pesaro, italy
+barletta, italy
+alessandria, italy
+la spezia, italy
+pisa, italy
+catanzaro, italy
+pistoia, italy
+guidonia montecelio, italy
+lucca, italy
+brindisi, italy
+torre del greco, italy
+como, italy
+treviso, italy
+busto arsizio, italy
+marsala, italy
+grosseto, italy
+sesto san giovanni, italy
+pozzuoli, italy
+varese, italy
+fiumicino, italy
+casoria, italy
+asti, italy
+caserta, italy
+cinisello balsamo, italy
+gela, italy
+aprilia, italy
+ragusa, italy
+pavia, italy
+cremona, italy
+carpi, italy
+quartu sant'elena, italy
+lamezia terme, italy
+altamura, italy
+imola, italy
+l’aquila, italy
+massa, italy
+trapani, italy
+cosenza, italy
+viterbo, italy
+potenza, italy
+castellammare di stabia, italy
+afragola, italy
+vittoria, italy
+vigevano, italy
+crotone, italy
+pomezia, italy
+caltanissetta, italy
+carrara, italy
+viareggio, italy
+savona, italy
+fano, italy
+matera, italy
+legnano, italy
+olbia, italy
+benevento, italy
+marano di napoli, italy
+acerra, italy
+molfetta, italy
+agrigento, italy
+faenza, italy
+cerignola, italy
+moncalieri, italy
+foligno, italy
+manfredonia, italy
+tivoli, italy
+cuneo, italy
+trani, italy
+bisceglie, italy
+bagheria, italy
+bitonto, italy
+portici, italy
+sanremo, italy
+teramo, italy
+avellino, italy
+modica, italy
+anzio, italy
+montesilvano, italy
+siena, italy
+cava de' tirreni, italy
+san severo, italy
+velletri, italy
+ercolano, italy
+gallarate, italy
+aversa, italy
+civitavecchia, italy
+acireale, italy
+rovigo, italy
+mazara del vallo, italy
+chieti, italy
+pordenone, italy
+battipaglia, italy
+scafati, italy
+rho, italy
+scandicci, italy
+Italy
+Rome
+Milan
+Naples
+Turin
+Palermo
+Genoa
+Bologna
+Florence
+Bari
+Catania
+Venice
+Verona
+Messina
+Padua
+Trieste
+Taranto
+Brescia
+Parma
+Prato
+Modena
+Reggio Calabria
+Reggio Emilia
+Perugia
+Ravenna
+Livorno
+Cagliari
+Foggia
+Rimini
+Salerno
+Ferrara
+Sassari
+Latina
+Giugliano In Campania
+Monza
+Syracuse
+Pescara
+Bergamo
+Forlì
+Trento
+Vicenza
+Terni
+Bolzano
+Novara
+Piacenza
+Ancona
+Andria
+Arezzo
+Udine
+Cesena
+Lecce
+Pesaro
+Barletta
+Alessandria
+La Spezia
+Pisa
+Catanzaro
+Pistoia
+Guidonia Montecelio
+Lucca
+Brindisi
+Torre Del Greco
+Como
+Treviso
+Busto Arsizio
+Marsala
+Grosseto
+Sesto San Giovanni
+Pozzuoli
+Varese
+Fiumicino
+Casoria
+Asti
+Caserta
+Cinisello Balsamo
+Gela
+Aprilia
+Ragusa
+Pavia
+Cremona
+Carpi
+Quartu Sant'elena
+Lamezia Terme
+Altamura
+Imola
+L’aquila
+Massa
+Trapani
+Cosenza
+Viterbo
+Potenza
+Castellammare Di Stabia
+Afragola
+Vittoria
+Vigevano
+Crotone
+Pomezia
+Caltanissetta
+Carrara
+Viareggio
+Savona
+Fano
+Matera
+Legnano
+Olbia
+Benevento
+Marano Di Napoli
+Acerra
+Molfetta
+Agrigento
+Faenza
+Cerignola
+Moncalieri
+Foligno
+Manfredonia
+Tivoli
+Cuneo
+Trani
+Bisceglie
+Bagheria
+Bitonto
+Portici
+Sanremo
+Teramo
+Avellino
+Modica
+Anzio
+Montesilvano
+Siena
+Cava De' Tirreni
+San Severo
+Velletri
+Ercolano
+Gallarate
+Aversa
+Civitavecchia
+Acireale
+Rovigo
+Mazara Del Vallo
+Chieti
+Pordenone
+Battipaglia
+Scafati
+Rho
+Scandicci
+Rome, Italy
+Milan, Italy
+Naples, Italy
+Turin, Italy
+Palermo, Italy
+Genoa, Italy
+Bologna, Italy
+Florence, Italy
+Bari, Italy
+Catania, Italy
+Venice, Italy
+Verona, Italy
+Messina, Italy
+Padua, Italy
+Trieste, Italy
+Taranto, Italy
+Brescia, Italy
+Parma, Italy
+Prato, Italy
+Modena, Italy
+Reggio Calabria, Italy
+Reggio Emilia, Italy
+Perugia, Italy
+Ravenna, Italy
+Livorno, Italy
+Cagliari, Italy
+Foggia, Italy
+Rimini, Italy
+Salerno, Italy
+Ferrara, Italy
+Sassari, Italy
+Latina, Italy
+Giugliano In Campania, Italy
+Monza, Italy
+Syracuse, Italy
+Pescara, Italy
+Bergamo, Italy
+Forlì, Italy
+Trento, Italy
+Vicenza, Italy
+Terni, Italy
+Bolzano, Italy
+Novara, Italy
+Piacenza, Italy
+Ancona, Italy
+Andria, Italy
+Arezzo, Italy
+Udine, Italy
+Cesena, Italy
+Lecce, Italy
+Pesaro, Italy
+Barletta, Italy
+Alessandria, Italy
+La Spezia, Italy
+Pisa, Italy
+Catanzaro, Italy
+Pistoia, Italy
+Guidonia Montecelio, Italy
+Lucca, Italy
+Brindisi, Italy
+Torre Del Greco, Italy
+Como, Italy
+Treviso, Italy
+Busto Arsizio, Italy
+Marsala, Italy
+Grosseto, Italy
+Sesto San Giovanni, Italy
+Pozzuoli, Italy
+Varese, Italy
+Fiumicino, Italy
+Casoria, Italy
+Asti, Italy
+Caserta, Italy
+Cinisello Balsamo, Italy
+Gela, Italy
+Aprilia, Italy
+Ragusa, Italy
+Pavia, Italy
+Cremona, Italy
+Carpi, Italy
+Quartu Sant'elena, Italy
+Lamezia Terme, Italy
+Altamura, Italy
+Imola, Italy
+L’aquila, Italy
+Massa, Italy
+Trapani, Italy
+Cosenza, Italy
+Viterbo, Italy
+Potenza, Italy
+Castellammare Di Stabia, Italy
+Afragola, Italy
+Vittoria, Italy
+Vigevano, Italy
+Crotone, Italy
+Pomezia, Italy
+Caltanissetta, Italy
+Carrara, Italy
+Viareggio, Italy
+Savona, Italy
+Fano, Italy
+Matera, Italy
+Legnano, Italy
+Olbia, Italy
+Benevento, Italy
+Marano Di Napoli, Italy
+Acerra, Italy
+Molfetta, Italy
+Agrigento, Italy
+Faenza, Italy
+Cerignola, Italy
+Moncalieri, Italy
+Foligno, Italy
+Manfredonia, Italy
+Tivoli, Italy
+Cuneo, Italy
+Trani, Italy
+Bisceglie, Italy
+Bagheria, Italy
+Bitonto, Italy
+Portici, Italy
+Sanremo, Italy
+Teramo, Italy
+Avellino, Italy
+Modica, Italy
+Anzio, Italy
+Montesilvano, Italy
+Siena, Italy
+Cava De' Tirreni, Italy
+San Severo, Italy
+Velletri, Italy
+Ercolano, Italy
+Gallarate, Italy
+Aversa, Italy
+Civitavecchia, Italy
+Acireale, Italy
+Rovigo, Italy
+Mazara Del Vallo, Italy
+Chieti, Italy
+Pordenone, Italy
+Battipaglia, Italy
+Scafati, Italy
+Rho, Italy
+Scandicci, Italy
